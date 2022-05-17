@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "managementAirport.Services", "managementAirport\managementAirport.Services.csproj", "{FAF91E5A-B1A6-47D7-A1FA-01E86535C157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "managementAirport.Models", "managementAirport.Models\managementAirport.Models.csproj", "{AB87B98E-C3AE-49F0-8A9C-BEAF58176C28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "managementAirport.Repository", "managementAirport.Repository\managementAirport.Repository.csproj", "{BBFC9FDF-27E6-4F94-85D8-283C29148B1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAF91E5A-B1A6-47D7-A1FA-01E86535C157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF91E5A-B1A6-47D7-A1FA-01E86535C157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF91E5A-B1A6-47D7-A1FA-01E86535C157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF91E5A-B1A6-47D7-A1FA-01E86535C157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB87B98E-C3AE-49F0-8A9C-BEAF58176C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB87B98E-C3AE-49F0-8A9C-BEAF58176C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB87B98E-C3AE-49F0-8A9C-BEAF58176C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB87B98E-C3AE-49F0-8A9C-BEAF58176C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBFC9FDF-27E6-4F94-85D8-283C29148B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFC9FDF-27E6-4F94-85D8-283C29148B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFC9FDF-27E6-4F94-85D8-283C29148B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFC9FDF-27E6-4F94-85D8-283C29148B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6CB5011-80CD-4932-8291-ACC731D7FCB5}
+	EndGlobalSection
+EndGlobal
